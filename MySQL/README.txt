@@ -11,5 +11,7 @@
             imageLocation:图片的下载路径
             bs0bj.find("a",{"id":"logo"}).find("img")["src"]
    -MySQL:
+      该文档中用练习运用time，sched等模块，学习如何联系运行代码
+      该文档使用pymysql练习connect.cursor与插入查询等操作
       使用的工具包：
-          pymysql      
+          pymysql,time,sched      
